@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Hieuvu-razekit-page1/static/css/main.c2bb2075.chunk.css",
-    "main.js": "/Hieuvu-razekit-page1/static/js/main.ee8b6d93.chunk.js",
-    "main.js.map": "/Hieuvu-razekit-page1/static/js/main.ee8b6d93.chunk.js.map",
+    "main.css": "/Hieuvu-razekit-page1/static/css/main.31bb1722.chunk.css",
+    "main.js": "/Hieuvu-razekit-page1/static/js/main.c18b9eac.chunk.js",
+    "main.js.map": "/Hieuvu-razekit-page1/static/js/main.c18b9eac.chunk.js.map",
     "runtime-main.js": "/Hieuvu-razekit-page1/static/js/runtime-main.a482b641.js",
     "runtime-main.js.map": "/Hieuvu-razekit-page1/static/js/runtime-main.a482b641.js.map",
     "static/css/2.786ae0dd.chunk.css": "/Hieuvu-razekit-page1/static/css/2.786ae0dd.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.0824a36d.chunk.js.map": "/Hieuvu-razekit-page1/static/js/3.0824a36d.chunk.js.map",
     "index.html": "/Hieuvu-razekit-page1/index.html",
     "static/css/2.786ae0dd.chunk.css.map": "/Hieuvu-razekit-page1/static/css/2.786ae0dd.chunk.css.map",
-    "static/css/main.c2bb2075.chunk.css.map": "/Hieuvu-razekit-page1/static/css/main.c2bb2075.chunk.css.map",
+    "static/css/main.31bb1722.chunk.css.map": "/Hieuvu-razekit-page1/static/css/main.31bb1722.chunk.css.map",
     "static/js/2.93121799.chunk.js.LICENSE.txt": "/Hieuvu-razekit-page1/static/js/2.93121799.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a482b641.js",
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.93121799.chunk.js",
-    "static/css/main.c2bb2075.chunk.css",
-    "static/js/main.ee8b6d93.chunk.js"
+    "static/css/main.31bb1722.chunk.css",
+    "static/js/main.c18b9eac.chunk.js"
   ]
 }
