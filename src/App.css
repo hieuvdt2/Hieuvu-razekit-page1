@@ -18,7 +18,7 @@ h6 {
 }
 .App {
   text-align: center;
-  background-color: #f6f8f9;
+  background-color: #e26324;
 }
 
 .App-logo {
@@ -128,6 +128,7 @@ h6 {
 .world-new {
   position: relative;
   text-align: left;
+  width: 100%;
 }
 .world-new .text-white {
   color: #fff;
@@ -450,10 +451,18 @@ input::placeholder {
 @media screen and (max-width: 576px) {
   .container {
     width: 100%;
+    padding: 0 10px;
+    margin: 0 10px;
   }
   .App .footer {
     height: 0;
     display: none;
+  }
+  .more-new {
+    padding: 40px 10px;
+  }
+  .content-new {
+    padding: 0 10px;
   }
 }
 /* @media screen and (max-width: 426px) {
